@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://smq9sn5jck-coder.github.io/sitemap.xml
