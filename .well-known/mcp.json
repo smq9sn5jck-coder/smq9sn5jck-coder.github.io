@@ -1,0 +1,24 @@
+{
+  "name": "CausalLayer",
+  "description": "Deterministic AI liability attribution engine",
+  "url": "https://mcp.faultkey.com/mcp",
+  "version": "1.0.0",
+  "tools": [
+    {
+      "name": "submit_incident",
+      "description": "Generate a liability attribution certificate"
+    },
+    {
+      "name": "verify_certificate",
+      "description": "Cryptographically verify an existing certificate"
+    },
+    {
+      "name": "get_anchor_status",
+      "description": "Check the integrity anchor ledger"
+    },
+    {
+      "name": "query_issuer_registry",
+      "description": "Look up registered certificate issuers"
+    }
+  ]
+}
